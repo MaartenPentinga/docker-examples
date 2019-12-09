@@ -1,4 +1,4 @@
-FROM alfa-voorbeeld
+FROM ubuntu:18.04
 LABEL Maintainer="Maarten Pentinga"
 LABEL Description="Example dockerfile" Vendor="Pruts" Version="0.1"
 EXPOSE 80/tcp
